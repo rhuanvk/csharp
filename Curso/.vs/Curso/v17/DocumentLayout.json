@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rhuan\\Projetos\\csharp\\Curso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9BFB44-99BF-44CE-BA35-07DBD78AE651}|Curso\\Curso.csproj|c:\\rhuan\\projetos\\csharp\\curso\\curso\\inquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9BFB44-99BF-44CE-BA35-07DBD78AE651}|Curso\\Curso.csproj|solutionrelative:curso\\inquilino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9BFB44-99BF-44CE-BA35-07DBD78AE651}|Curso\\Curso.csproj|C:\\Rhuan\\Projetos\\csharp\\Curso\\curso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9BFB44-99BF-44CE-BA35-07DBD78AE651}|Curso\\Curso.csproj|solutionrelative:curso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9BFB44-99BF-44CE-BA35-07DBD78AE651}|Curso\\Curso.csproj|c:\\rhuan\\projetos\\csharp\\curso\\curso\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9BFB44-99BF-44CE-BA35-07DBD78AE651}|Curso\\Curso.csproj|solutionrelative:curso\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Rhuan\\Projetos\\csharp\\Curso\\Curso\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Curso\\Calculadora.cs",
+              "ToolTip": "C:\\Rhuan\\Projetos\\csharp\\Curso\\Curso\\Calculadora.cs",
+              "RelativeToolTip": "Curso\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:06:32.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inquilino.cs",
+              "DocumentMoniker": "C:\\Rhuan\\Projetos\\csharp\\Curso\\Curso\\Inquilino.cs",
+              "RelativeDocumentMoniker": "Curso\\Inquilino.cs",
+              "ToolTip": "C:\\Rhuan\\Projetos\\csharp\\Curso\\Curso\\Inquilino.cs",
+              "RelativeToolTip": "Curso\\Inquilino.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:38:18.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rhuan\\Projetos\\csharp\\Curso\\Curso\\Program.cs",
+              "RelativeDocumentMoniker": "Curso\\Program.cs",
+              "ToolTip": "C:\\Rhuan\\Projetos\\csharp\\Curso\\Curso\\Program.cs",
+              "RelativeToolTip": "Curso\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:48:48.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

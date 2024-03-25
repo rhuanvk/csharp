@@ -1,0 +1,14 @@
+C:\Rhuan\Projetos\csharp\Curso\Curso\bin\Debug\net8.0\Curso.exe
+C:\Rhuan\Projetos\csharp\Curso\Curso\bin\Debug\net8.0\Curso.deps.json
+C:\Rhuan\Projetos\csharp\Curso\Curso\bin\Debug\net8.0\Curso.runtimeconfig.json
+C:\Rhuan\Projetos\csharp\Curso\Curso\bin\Debug\net8.0\Curso.dll
+C:\Rhuan\Projetos\csharp\Curso\Curso\bin\Debug\net8.0\Curso.pdb
+C:\Rhuan\Projetos\csharp\Curso\Curso\obj\Debug\net8.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rhuan\Projetos\csharp\Curso\Curso\obj\Debug\net8.0\Curso.AssemblyInfoInputs.cache
+C:\Rhuan\Projetos\csharp\Curso\Curso\obj\Debug\net8.0\Curso.AssemblyInfo.cs
+C:\Rhuan\Projetos\csharp\Curso\Curso\obj\Debug\net8.0\Curso.csproj.CoreCompileInputs.cache
+C:\Rhuan\Projetos\csharp\Curso\Curso\obj\Debug\net8.0\Curso.dll
+C:\Rhuan\Projetos\csharp\Curso\Curso\obj\Debug\net8.0\refint\Curso.dll
+C:\Rhuan\Projetos\csharp\Curso\Curso\obj\Debug\net8.0\Curso.pdb
+C:\Rhuan\Projetos\csharp\Curso\Curso\obj\Debug\net8.0\Curso.genruntimeconfig.cache
+C:\Rhuan\Projetos\csharp\Curso\Curso\obj\Debug\net8.0\ref\Curso.dll
